@@ -16,7 +16,7 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 2. Volatility in Google's forecasted 2016 closing price is a range of (-20, 30). Holding shares is a low-risk investment, given the stability long-term; since for every positive there’s a lesser negative shock nearby.
 
-![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/92eb6ad2-7a29-4e33-acde-7f35f5950fc4)
+![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/bc43114c-8a08-4a9e-af61-f29340cad702)
 
 4. Average daily return is 11.5% with an error of 113.5% (due to shocks). The evidence of a gradual upward trend represents an opportunity worth considering (too bad this was for 2016).
 5. In the event of extreme circumstances, such as the financial crisis of 2008, a Monte Carlo simulation depicts Google’s closing price with potential to swing 40 - 120 points dependent on the day’s price. Bootstrapping the scenario gave a similar swing and average close.
