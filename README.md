@@ -16,8 +16,9 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/bc43114c-8a08-4a9e-af61-f29340cad702)
 
-3. Average daily return is 11.5% with an error of 113.5% (due to shocks). The evidence of a gradual upward trend represents an opportunity worth considering (too bad this was for 2016).
+3. Average daily return is 11.5% with an error of 113.5%. 
 
+![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/a40ffc2d-bde3-4d3b-a450-5352757736d6)
 
 
 4. In the event of extreme circumstances, such as the financial crisis of 2008, a Monte Carlo simulation depicts Google’s closing price with potential to swing 40 - 120 points dependent on the day’s price. Bootstrapping the scenario gave a similar swing and average close.
