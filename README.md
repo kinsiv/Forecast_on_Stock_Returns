@@ -7,13 +7,12 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 3. When there is a time of uncertainty, can the risk associated to a specific company's market evaluation be weighed?
 
 ## Actionable & Business Insights:
-*Figures are in the millionths. 1,000 = 100,000. Data is forecasted in 2016 with records from 2013 - 2015.*
 1. Google's trading volume is extrapolated to have a swing range of ~2,000 for 2016. 500 in gains, 1500 in losses. Shareholders appear hesitant to sell. This is promising for a price hike.
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/9402680d-3df4-450d-8131-d03b66c8dd7c)
 
 
-2. Volatility in Google's forecasted 2016 closing price is a range of (-20, 30). Holding shares is a low-risk investment, given the stability long-term; since for every positive there’s a lesser negative shock nearby.
+2. Volatility in Google's share price is a range of (-40, 20). The price changes are of increasing amounts, seen at in 2015. The gradual upwards trend is evidence that holding shares is a low-risk investment.
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/bc43114c-8a08-4a9e-af61-f29340cad702)
 
