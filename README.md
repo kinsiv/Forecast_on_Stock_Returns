@@ -8,7 +8,7 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 ## Actionable & Business Insights:
 *Figures are in the millionths. 1,000 = 100,000. Data is forecasted in 2016 with records from 2013 - 2015.*
-1. Google's trading volume is extrapolated to have swings of ~1,500 for 2016. 500 in gains, 1500 in losses. Beyond the -1,000 are outliers that have a low probability of occurring.
+1. Google's trading volume is extrapolated to have a swing range of ~1,500 for 2016. 500 in gains, 1000 in losses. 
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/06aaefbc-d1dd-496f-a59d-cb338ff3ac3c)
 
