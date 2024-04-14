@@ -11,7 +11,8 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 1. Google's trading volume is extrapolated to have swings of ~1,500 for 2016. 500 in gains, 1500 in losses. Beyond the -1,000 are outliers that have a low probability of occurring.
 2. Volatility in Google's forecasted 2016 closing price is a range of (-20, 30). Holding shares is a low-risk investment, given the stability long-term; since for every positive there’s a lesser negative shock nearby.
 
-![alt text]([http://url/to/img.png](https://i.gyazo.com/96df0506683861d4f5766441633d0476.png))
+![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/92eb6ad2-7a29-4e33-acde-7f35f5950fc4)
+
 
 
 
