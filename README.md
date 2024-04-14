@@ -23,7 +23,7 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 
 *Note that the below swings can be in either direction (pos or neg). The model outputs all as a pos from its residual-variance based structure.*
-4. In the event of say, a financial crisis, this Monte Carlo simulation depicts Google’s closing price. There's potential to swing 40-120 points, depending on the day’s price. Bootstrapping the scenario gave similar results.
+* 4. In the event of say, a financial crisis, this Monte Carlo simulation depicts Google’s closing price. There's potential to swing 40-120 points, depending on the day’s price. Bootstrapping the scenario gave similar results.
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/7e6fcd5a-edaf-484d-bd76-96cac7ef5bd2)
 
