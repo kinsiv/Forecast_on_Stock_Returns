@@ -8,7 +8,7 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 ## Actionable & Business Insights:
 *Figures are in the millionths. 1,000 = 100,000. Data is forecasted in 2016 with records from 2013 - 2015.*
-1. Google's trading volume is extrapolated to have a swing range of ~1,500 for 2016. 500 in gains, 1000 in losses. 
+1. Google's trading volume is extrapolated to have a swing range of ~2,000 for 2016. 500 in gains, 1500 in losses. Shareholders appear hesitant to sell. This is promising for a price hike.
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/9402680d-3df4-450d-8131-d03b66c8dd7c)
 
@@ -16,6 +16,9 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/bc43114c-8a08-4a9e-af61-f29340cad702)
 
-4. Average daily return is 11.5% with an error of 113.5% (due to shocks). The evidence of a gradual upward trend represents an opportunity worth considering (too bad this was for 2016).
-5. In the event of extreme circumstances, such as the financial crisis of 2008, a Monte Carlo simulation depicts Google’s closing price with potential to swing 40 - 120 points dependent on the day’s price. Bootstrapping the scenario gave a similar swing and average close.
-6.  The overall NYSE volume and close prices for 2016 are predicted to extend current figures. Google is likely to benefit shareholders given the market and company performance.
+3. Average daily return is 11.5% with an error of 113.5% (due to shocks). The evidence of a gradual upward trend represents an opportunity worth considering (too bad this was for 2016).
+
+
+
+4. In the event of extreme circumstances, such as the financial crisis of 2008, a Monte Carlo simulation depicts Google’s closing price with potential to swing 40 - 120 points dependent on the day’s price. Bootstrapping the scenario gave a similar swing and average close.
+5.  The overall NYSE volume and close prices for 2016 are predicted to extend current figures. Google is likely to benefit shareholders given the market and company performance.
