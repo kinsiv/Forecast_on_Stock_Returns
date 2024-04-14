@@ -17,12 +17,13 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/bc43114c-8a08-4a9e-af61-f29340cad702)
 
 
-3. Newly antiquated investors can expect and an average daily return of 11.5% with an error of 113.5% - caused primarily by 2015's growth.
+3. Newly antiquated investors can expect an average daily return of 11.5% with an error of 113.5% - caused primarily by 2015's growth.
 
 [![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/391f1dac-2aad-48ed-9cf0-2cb9de490a99)](https://gyazo.com/5dcfd7daaba7ea4333475cd98bf9656e)
 
-*Note that the below swings can be in either direction (pos or neg). The model outputs all as a pos from it's residual-variance based structure.*
-4. In the event of say, a financial crisis, this Monte Carlo simulation depicts Google’s closing price. There's potential to swing 40-120 points, dependent on the day’s price. Bootstrapping the scenario gave similir results.
+
+*Note that the below swings can be in either direction (pos or neg). The model outputs all as a pos from its residual-variance based structure.*
+4. In the event of say, a financial crisis, this Monte Carlo simulation depicts Google’s closing price. There's potential to swing 40-120 points, depending on the day’s price. Bootstrapping the scenario gave similar results.
 
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/7e6fcd5a-edaf-484d-bd76-96cac7ef5bd2)
 
