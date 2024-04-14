@@ -23,8 +23,9 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 [![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/391f1dac-2aad-48ed-9cf0-2cb9de490a99)](https://gyazo.com/5dcfd7daaba7ea4333475cd98bf9656e)
 
 
-4. In the event of extreme circumstances, such as the financial crisis of 2008, a Monte Carlo simulation depicts Google’s closing price with potential to swing 40 - 120 points dependent on the day’s price. Bootstrapping the scenario gave a similar swing and average close.
+4. In the event of extreme circumstances, such as the financial crisis of 2008, a Monte Carlo simulation depicts Google’s closing price with potential to swing 40 - 120 points dependent on the day’s price. Bootstrapping the scenario gave similir results.
 
+![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/7e6fcd5a-edaf-484d-bd76-96cac7ef5bd2)
 
   
 5.  The overall NYSE volume and close prices for 2016 are predicted to extend current figures. Google is likely to benefit shareholders given the market and company performance.
