@@ -14,7 +14,7 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
 2. Volatility in Google's share price is a range of (-30, 30). The price changes are of increasing amounts, seen at in 2015 Q3. The gradual upwards trend is evidence that holding shares is a low-risk investment.
 
-![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/96dd06e9-478d-488d-9a0d-eb2faf9425d7)
+[![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/96dd06e9-478d-488d-9a0d-eb2faf9425d7)](https://gyazo.com/3d48c449cd0ee1e872895a388cf4680f)
 
 
 
