@@ -12,9 +12,10 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 ![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/9402680d-3df4-450d-8131-d03b66c8dd7c)
 
 
-2. Volatility in Google's share price is a range of (-40, 20). The price changes are of increasing amounts, seen at in 2015. The gradual upwards trend is evidence that holding shares is a low-risk investment.
+2. Volatility in Google's share price is a range of (-30, 30). The price changes are of increasing amounts, seen at in 2015 Q3. The gradual upwards trend is evidence that holding shares is a low-risk investment.
 
-![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/bc43114c-8a08-4a9e-af61-f29340cad702)
+![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/96dd06e9-478d-488d-9a0d-eb2faf9425d7)
+
 
 
 3. Newly antiquated investors can expect an average daily return of 11.5% with an error of 113.5% - caused primarily by 2015's growth.
