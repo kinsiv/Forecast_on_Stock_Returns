@@ -30,3 +30,5 @@ In my analysis of forecasting NYSE stocks, I utilized a multifactor model to exa
 
   
 5.  The overall NYSE volume and close prices for 2016 are predicted to extend current figures. Google is likely to benefit shareholders given the market and company performance.
+
+![image](https://github.com/kinsiv/RiskAssessment_Forecast_Stocks/assets/89998643/8350ef09-3d61-4486-994b-f757225b4b44)
