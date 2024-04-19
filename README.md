@@ -1,4 +1,4 @@
-# Risk Assessment & Forecast on Stock Returns, Data Wrangled from the NYSE
+# Risk Assessment & Forecast on Google's Stocks, Data Wrangled from the NYSE
 I utilized a multifactor model to examine the predictive power of various financial and economic indicators over 3 years. The factors included swings, shocks, conditional volatility, residual variances, and more. I applied regression analysis to determine the relationship between these factors and the future returns of a diverse set of stocks, as well Google specifically. The study investigates the complexities of returns predictions and the importance of considering a broad range of factors in investment strategies. Predictive models were then evaluated for their accuracy and robustness to unseen events.
 
 ## Research Questions:
